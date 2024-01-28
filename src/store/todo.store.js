@@ -1,6 +1,6 @@
 import { Todo } from "../todos/models/todo.model";
 
-const Filters = {
+export const Filters = {
     All: 'all',
     Completed: 'Completed',
     Pending: 'Pending'
@@ -9,12 +9,12 @@ const Filters = {
 const state = {
     todos: [
         new Todo('Pieda del alma'),
-        new Todo('Pieda del infinito'),
+        new Todo('Pieda del espacio'),
         new Todo('Pieda del tiempo'),
         new Todo('Pieda del poder'),
-        new Todo('Pieda de la realidad'),
+        new Todo('Pieda del realidad'),
     ],
-    filter: 'Filters.All',
+    filter: Filters.All,
 }
 
 const initStore = () => {
