@@ -8,11 +8,11 @@ export const Filters = {
 
 const state = {
     todos: [
-        new Todo('Pieda del alma'),
-        new Todo('Pieda del espacio'),
-        new Todo('Pieda del tiempo'),
-        new Todo('Pieda del poder'),
-        new Todo('Pieda del realidad'),
+        new Todo('Piedra del alma'),
+        new Todo('Piedra del espacio'),
+        new Todo('Piedra del tiempo'),
+        new Todo('Piedra del poder'),
+        new Todo('Piedra del realidad'),
     ],
     filter: Filters.All,
 }
