@@ -12,5 +12,4 @@ export class Todo {
         this.done = false
         this.createdAt = new Date()
     }
-
 }
