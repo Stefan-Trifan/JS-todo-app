@@ -15,7 +15,7 @@ Permite añadir, marcar como completadas y eliminar tareas de manera sencilla y 
 ## Tecnologías utilizadas
 
 - **JavaScript (Vanilla)**
-- **[Vite](https://vitejs.dev/)** como bundler y entorno de desarrollo
+- **Vite** como bundler y entorno de desarrollo
 
 ---
 
