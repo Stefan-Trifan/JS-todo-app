@@ -4,7 +4,7 @@ Este proyecto es una **aplicación de lista de tareas** construida con **JavaScr
 
 Permite añadir, marcar como completadas y eliminar tareas de manera sencilla y rápida, con una interfaz limpia y responsiva.
 
-🔗 **Demo en vivo**: [https://stefan-trifan.github.io/JS-todo-app/](https://stefan-trifan.github.io/JS-todo-app/)
+**Demo en vivo**: [https://stefan-trifan.github.io/JS-todo-app/](https://stefan-trifan.github.io/JS-todo-app/)
 
 ## Funcionalidades
 
